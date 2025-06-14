@@ -14,7 +14,8 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkdin.com/tanishka-dhanwan-788443317)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1288912394575155260)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DhanwanTanishka)
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg)](mailto:dhanwantanishka4169@gmail.com)
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/e/e8/Gmail_Icon.svg)](mailto:dhanwantanishka4169@gmail.com)
+
 
 
   
