@@ -11,5 +11,7 @@
 - **SMS Spam Detection** - A model to identify and seperate spam messeges
 
 ### 🪪 Connect With Me
-- Linkdin : [linkdin.com/in/tanishka-dhanwan-788443317](https://linkdin.com/tanishka-dhanwan-788443317)
-- Discord :  
+[![Linkdin](https://linkdin.com/tanishka-dhanwan-788443317)]
+[![Discord](https://discordapp.com/users/1288912394575155260)]
+[![Twitter](https://twitter.com/DhanwanTanishka)]
+  
