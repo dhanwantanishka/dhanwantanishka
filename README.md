@@ -1,9 +1,9 @@
 
 ### 💻 Skills 
-- **Programming :**  Python  ||  C/C++  ||  Java  ||  SQL(MySQL)
-- **Operating Systems :**  Windows  ||  Linux (RHEL 9.3)
+- **Programming :**  Python   ||   C/C++   ||   Java   ||   SQL(MySQL)
+- **Operating Systems :**  Windows   ||   Linux (RHEL 9.3)
 - **Data Science & ML :**  ML & DL principles
-- **Programming Concepts :**  Object-Oriented Programming(OOPs)  ||  Network Programming
+- **Programming Concepts :**  Object-Oriented Programming(OOPs)   ||   Network Programming
 
 ### 🚀 Projects
 - **FlashMemo** - Basic Flashcard manager
