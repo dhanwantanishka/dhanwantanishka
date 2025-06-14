@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**dhanwantanishka/dhanwantanishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tanishka Dhanwan** , a computer Science student passionate about system programming , exploring Linix system administration , Machine Learning and System security tools and techniques .
+### 💻 Skills 
+- **Programming:** Python || C/C++ || Java || SQL(MySQL)
+- **Operating Systems:** Windows || Linux (RHEL 9.3)
+- **Data Science & ML:** ML & DL principles
+- **Programming Concepts:** Object-Oriented Programming(OOPs) || Network Programming
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **FlashMemo** - Basic Flashcard manager
+- **Hate Speech Detection** - AI-based Text , Image and Audio filter
+- **SMS Spam Detection** - A model to identify and seperate spam messeges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪪 Connect With Me
+- Linkdin : [linkdin.com/in/tanishka-dhanwan-788443317](https://linkdin.com/tanishka-dhanwan-788443317)
+- Discord :  
