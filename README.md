@@ -16,8 +16,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DhanwanTanishka)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:dhanwantanishka4169@gmail.com)
 
-### 📊My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 
 
 
