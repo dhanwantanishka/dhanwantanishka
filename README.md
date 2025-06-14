@@ -1,6 +1,4 @@
-## Hi there 👋
 
-I'm **Tanishka Dhanwan** , a computer Science student passionate about system programming , exploring Linix system administration , Machine Learning and System security tools and techniques .
 ### 💻 Skills 
 - **Programming:** Python || C/C++ || Java || SQL(MySQL)
 - **Operating Systems:** Windows || Linux (RHEL 9.3)
