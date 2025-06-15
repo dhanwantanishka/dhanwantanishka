@@ -14,7 +14,7 @@
 
 
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical)](https://github.com/Tanishka)
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical)](https://github.com/dhanwantanishka)
 
 ![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 
