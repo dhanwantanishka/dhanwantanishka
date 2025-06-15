@@ -1,4 +1,4 @@
-![Global Network Animation](https://your-gif-url.com)
+![Global Network](https://github.com/dhanwantanishka/repo/blob/main/assets/global_network.gif?raw=true)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
