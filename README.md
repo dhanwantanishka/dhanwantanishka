@@ -1,9 +1,23 @@
 
-### 💻 Skills 
-- **Programming :**  Python   ||   C/C++   ||   Java   ||   SQL(MySQL)
-- **Operating Systems :**  Windows   ||   Linux (RHEL 9.3)
-- **Data Science & ML :**  ML & DL principles
-- **Programming Concepts :**  Object-Oriented Programming(OOPs)   ||   Network Programming
+## 💻 Skills
+
+### 🔹 Programming
+- 🐍 **Python**
+- 🎯 **C/C++**
+- ☕ **Java**
+- 🗄️ **SQL (MySQL)**
+
+### 🖥️ Operating Systems
+- 🖥️ **Windows**
+- 🐧 **Linux (RHEL 9.3)**
+
+### 📈 Data Science & ML
+- 🤖 **Machine Learning & Deep Learning principles**
+
+### ⚡ Programming Concepts
+- 🏗 **Object-Oriented Programming (OOPs)**
+- 🔗 **Network Programming**
+
 
 ### 🚀 Projects
 - **FlashMemo** - Basic Flashcard manager
@@ -24,8 +38,10 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanwantanishka&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
 
 
-[🔗 GitHub Metrics Repository](https://github.com/lowlighter/metrics)
-![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+
+## 🏆 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
