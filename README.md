@@ -1,8 +1,6 @@
 
 ## 💻 Skills
 
-## 💻 Skills
-
 ### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,17 +12,16 @@
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux (RHEL 9.3)](https://img.shields.io/badge/RHEL-9.3-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 
-### ⚡ Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
 ### 📈 Data Science & ML
 - 🤖 **Machine Learning & Deep Learning principles**
 
 ### ⚡ Programming Concepts
 - 🏗 **Object-Oriented Programming (OOPs)**
 - 🔗 **Network Programming**
+
+  ### ⚡ Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Projects
 
@@ -44,15 +41,15 @@
 
 ![Hate Speech Detection](https://img.shields.io/badge/Hate_Speech_Detection-AI-red?style=for-the-badge)
 
-```mermaid
-graph TD;
-  A[Input Data] --> B[Text Processing];
-  A --> C[Image Analysis];
-  A --> D[Audio Recognition];
-  B --> E[ML Model];
-  C --> E;
-  D --> E;
-  E --> F[Filtered Output];
+---
+
+### 📩 SMS Spam Detection  
+📌 **A model to identify and separate spam messages**  
+🔹 Uses **natural language processing (NLP)** for spam classification.  
+🔹 Helps users filter unwanted messages automatically.  
+
+![SMS Spam Detection](https://img.shields.io/badge/SMS_Spam_Detection-ML-green?style=for-the-badge)
+
 
 
 
