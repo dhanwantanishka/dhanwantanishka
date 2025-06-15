@@ -18,17 +18,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:dhanwantanishka4169@gmail.com)
 
 
-## 🔥 GitHub Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanwantanishka&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
-
-
 
 
 ## 📈 GitHub Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanwantanishka&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
 
 
-
+[🔗 GitHub Metrics Repository](https://github.com/lowlighter/metrics)
 ![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 
 
