@@ -1,4 +1,4 @@
-![Global Network Animation](https://your-animated-gif-url.com)
+![Global Network Animation](https://your-gif-url.com)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
