@@ -10,6 +10,9 @@
 - **Hate Speech Detection** - AI-based Text , Image and Audio filter
 - **SMS Spam Detection** - A model to identify and seperate spam messeges
 
+![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+
+
 ### 🪪 Connect With Me
 [![Linkdin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkdin.com/tanishka-dhanwan-788443317)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1288912394575155260)
