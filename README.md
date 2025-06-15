@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanishka&theme=radical&bg_color=0D1117&color=FFDD57&line=FFDD57&point=FFFFFF&area=true&hide_border=true)](https://github.com/Tanishka)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical&bg_color=0D1117&color=FFDD57&line=FFDD57&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
