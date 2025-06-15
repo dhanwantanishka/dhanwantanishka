@@ -62,7 +62,6 @@
 
 
 
-
 ### 🪪 Connect With Me
 [![Linkdin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkdin.com/tanishka-dhanwan-788443317)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1288912394575155260)
@@ -81,16 +80,9 @@
 
 
 
+## 👀 Profile Views  
+[![Profile Views](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dhanwantanishka)
 
-
-
-
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue)
 
 
 
