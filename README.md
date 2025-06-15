@@ -1,4 +1,4 @@
-![Global Network](https://github.com/dhanwantanishka/repo/blob/main/assets/global_network.gif?raw=true)
+![Network](https://cdn.jsdelivr.net/gh/yourusername/repo@main/assets/network.svg)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
