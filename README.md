@@ -10,12 +10,13 @@
 - **Hate Speech Detection** - AI-based Text , Image and Audio filter
 - **SMS Spam Detection** - A model to identify and seperate spam messeges
 
-![](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue)
+
 
 
 
 ## 📈 GitHub Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical)](https://github.com/dhanwantanishka)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
@@ -26,6 +27,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1288912394575155260)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DhanwanTanishka)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:dhanwantanishka4169@gmail.com)
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue)
 
 
 
