@@ -26,11 +26,34 @@
 - 🏗 **Object-Oriented Programming (OOPs)**
 - 🔗 **Network Programming**
 
+## 🚀 Projects
 
-### 🚀 Projects
-- **FlashMemo** - Basic Flashcard manager
-- **Hate Speech Detection** - AI-based Text , Image and Audio filter
-- **SMS Spam Detection** - A model to identify and seperate spam messeges
+### 📝 FlashMemo  
+📌 **Basic Flashcard Manager**  
+🔹 Helps users create, edit, and review flashcards efficiently.  
+🔹 Supports spaced repetition for better learning.  
+
+![FlashMemo](https://img.shields.io/badge/FlashMemo-Project-blue?style=for-the-badge)
+
+---
+
+### 🛡️ Hate Speech Detection  
+📌 **AI-based Text, Image, and Audio Filter**  
+🔹 Uses **machine learning** to detect and filter hate speech.  
+🔹 Works across **multiple media formats** for better accuracy.  
+
+![Hate Speech Detection](https://img.shields.io/badge/Hate_Speech_Detection-AI-red?style=for-the-badge)
+
+```mermaid
+graph TD;
+  A[Input Data] --> B[Text Processing];
+  A --> C[Image Analysis];
+  A --> D[Audio Recognition];
+  B --> E[ML Model];
+  C --> E;
+  D --> E;
+  E --> F[Filtered Output];
+
 
 
 ### 🪪 Connect With Me
