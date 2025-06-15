@@ -12,12 +12,23 @@
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux (RHEL 9.3)](https://img.shields.io/badge/RHEL-9.3-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 
-### 📈 Data Science & ML
-- 🤖 **Machine Learning & Deep Learning principles**
+## 📈 Data Science & Machine Learning
+- 🤖 **Machine Learning & Deep Learning Principles**  
+  - 📊 Supervised & Unsupervised Learning  
+  - 🔍 Feature Engineering & Model Optimization  
+  - 🎯 Neural Networks & Deep Learning Frameworks  
 
-### ⚡ Programming Concepts
-- 🏗 **Object-Oriented Programming (OOPs)**
-- 🔗 **Network Programming**
+## ⚡ Programming Concepts
+- 🏗 **Object-Oriented Programming (OOPs)**  
+  - 🔹 Encapsulation, Polymorphism, Inheritance  
+  - 🔗 Design Patterns & Best Practices  
+  - ⚡ Memory Management & Code Efficiency  
+
+- 🔗 **Network Programming**  
+  - 🌐 Socket Programming   
+  - 🔀 Multithreading & Data Transmission  
+   
+
 
   ### ⚡ Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
