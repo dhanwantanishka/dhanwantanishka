@@ -76,8 +76,6 @@
 
 
 
-## 👀 Profile Views  
-[![Profile Views](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dhanwantanishka)
 
 
 
