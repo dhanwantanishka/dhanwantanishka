@@ -1,4 +1,4 @@
-![Network Badge](https://img.shields.io/badge/Global%20Network-Connected-blue?style=for-the-badge)
+![Network Flow](https://your-dynamic-image-url.com)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
