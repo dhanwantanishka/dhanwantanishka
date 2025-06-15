@@ -71,14 +71,17 @@
 
 
 
+## 🏆 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
 
 ## 📈 GitHub Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanwantanishka&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
 
 
 
-## 🏆 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
