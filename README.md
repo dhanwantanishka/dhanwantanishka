@@ -1,4 +1,4 @@
-![Network Flow](https://your-dynamic-image-url.com)
+![Global Network Animation](https://your-animated-gif-url.com)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
