@@ -1,4 +1,3 @@
-![Network](https://cdn.jsdelivr.net/gh/yourusername/repo@main/assets/network.svg)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
