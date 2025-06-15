@@ -10,6 +10,12 @@
 - **Hate Speech Detection** - AI-based Text , Image and Audio filter
 - **SMS Spam Detection** - A model to identify and seperate spam messeges
 
+![](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue)
+
+
+
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhanwantanishka&theme=radical)](https://github.com/Tanishka)
+
 ![](https://github-readme-stats.vercel.app/api?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 
 
