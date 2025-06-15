@@ -1,4 +1,4 @@
-[![Global Network](https://github-readme-activity-graph.vercel.app/graph?username=dhanwantanishka&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/dhanwantanishka)
+![Network Badge](https://img.shields.io/badge/Global%20Network-Connected-blue?style=for-the-badge)
 ## 💻 Skills
 
 ### 🔹 Programming Languages
